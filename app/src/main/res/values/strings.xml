@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Contact List</string>
+    <string name="txt_menu1">Menu 1</string>
+    <string name="txt_menu_2">Menu 2</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
 </resources>
