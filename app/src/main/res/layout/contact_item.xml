@@ -29,13 +29,11 @@
 
         <TextView
             android:id="@+id/tv_name"
+            style="@style/text_view_default"
             app:layout_constraintTop_toTopOf="@id/iv_photo"
             app:layout_constraintStart_toEndOf="@id/iv_photo"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:textStyle="bold"
-            android:textColor="@color/black"
             android:layout_marginLeft="16dp"
             tools:text="Nome do Contato"
             />
